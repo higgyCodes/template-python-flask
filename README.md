@@ -2,7 +2,7 @@
 
 This is a [Python Flask](https://flask.palletsprojects.com/en/2.0.x) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
-## Next Steps
+## NextJS
 
 Click the button below to start a new development environment:
 
